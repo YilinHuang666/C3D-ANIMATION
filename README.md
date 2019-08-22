@@ -13,6 +13,7 @@ Please see instruction below for making a proper json file.
 A pdf of how to make a proper json file is included. 
 general_slider.m implements the animation in GUI. 
 slider_animation.m is the simpler version and it can implement the animation in a smoother way. 
+All files in the C3DSERVER are from Motion Lab Systems, Inc. (<http://www.motion-labs.com/>) and they are necessary for the operation of this program. 
 
 
 
