@@ -16,6 +16,12 @@ slider_animation.m is the simpler version and it can implement the animation in 
 
 
 
+# Execution #
+
+Download all the files into one folder, then run either general_slider.m or slider_animation.m depends on what you need.
+
+
+
 # Contact #
 
 if you have any question about C3D-ANIMATION , please send email to <yilin.huang17@imperial.ac.uk> or <m.jung@imperial.ac.uk>
