@@ -25,7 +25,7 @@ Download all the files into one folder, then run either general_slider.m or slid
 
 # Contact #
 
-if you have any question about C3D-ANIMATION , please send email to <yilin.huang17@imperial.ac.uk> or <m.jung@imperial.ac.uk>
+if you have any question about C3D-ANIMATION , please send email to <yilin.huang17@imperial.ac.uk>.
 
 
 
