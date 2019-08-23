@@ -33,7 +33,7 @@ if you have any question about C3D-ANIMATION , please send email to <yilin.huang
 
 Please see the file called License.
 
-Copyright (C) 2019-2021 Yilin Huang, Jung Moon Ki
+Copyright (C) 2019-2021 Yilin Huang
 
 C3D-ANIMATION is free software; you can redistribute it and/or modify it under the
 terms of the GNU General Public License as published by the Free Software
