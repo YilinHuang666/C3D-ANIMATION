@@ -17,6 +17,12 @@ All files in the C3DSERVER are from Motion Lab Systems, Inc. (<http://www.motion
 
 
 
+
+# Prerequisite #
+Download C3Dserver installer from <https://www.c3dserver.com/> before execution. The C3Dserver installation application can be downloaded at no charge and will install on all 64-bit and 32-bit versions of Microsoft Windows from Vista through Windows 10 using the standard Microsoft user environment.
+
+
+
 # Execution #
 
 Download all the files into one folder, then run either general_slider.m or slider_animation.m depends on what you need.
